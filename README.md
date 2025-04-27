@@ -4,5 +4,5 @@ This would be a series on refresher on the C as the Tile already suggested. This
 
 Let's go:
 
-1. [Basic Structure] (basicstructure.c)
+1. [Basic Structure](/basicstructure.c)
 2. 
